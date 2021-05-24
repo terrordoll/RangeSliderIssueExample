@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+        Height="1000" Width="1400">
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <mah:RangeSlider Grid.Row="1" Width="1152" Height="40" LowerValue="100" UpperValue="400" 
+                         Minimum="0" Maximum="750" TickPlacement="BottomRight" IsSnapToTickEnabled="True" TickFrequency="25"/>
+        <Slider Grid.Row="2" Width="1152" Height="40" Value="400" 
+                Minimum="0" Maximum="750" TickPlacement="BottomRight" IsSnapToTickEnabled="True" TickFrequency="25"/>
+    </Grid>
+</Window>

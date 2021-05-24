@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuQRVTwdfKSWz/2ma2Wbnoc7+ppCwXBl2DWQT5w69a5vFUDfUH22/iikEC4LyIDEIWA0ShANbC4+fYWcmpzKQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dmorrow\\RangeSliderIssueExample\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmorrow\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\dmorrow\\.nuget\\packages\\mahapps.metro\\2.4.5\\mahapps.metro.2.4.5.nupkg.sha512",
+    "C:\\Users\\dmorrow\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\dmorrow\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
